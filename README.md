@@ -8,6 +8,8 @@ a program that I can just click on or smth, will take all the ideas I have, mayb
 
 Version History:
 
+v.1.3.0
+Rewrote some of the code used for writing the statements as bullets and made a system to save and load them. Basically there is a json file (item_list.json) made onto the computer where all of the things are saved onto. So when you reopen the app it will read the file and load them onto the app. Also made it so clicking enter does the same thing as the add button. 
 v.1.2.1
 Just also adding that I overhauled version system in README.md. It is now: v.#.#.#, first number being significant changes, second number being new features, and third number being bug fixes and tweaks
 
