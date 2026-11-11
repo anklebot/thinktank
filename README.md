@@ -8,6 +8,9 @@ a program that I can just click on or smth, will take all the ideas I have, mayb
 
 Version History:
 
+v.1.2.1
+Just also adding that I overhauled version system in README.md. It is now: v.#.#.#, first number being significant changes, second number being new features, and third number being bug fixes and tweaks
+
 v.1.2.0
 I adjusted the system so now the window can take in inputs and store them in the current session, but still havent figured out how to preserve past reset. 
 
