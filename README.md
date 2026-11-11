@@ -1,5 +1,7 @@
-# thinktank
+# Tauri + Vanilla
 
-so did some research and settled upon tauri for the widget program
+This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
 
-is compatible with my pop_os 22.04 system so should work out great and in theory is compatible with other systems. 
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
