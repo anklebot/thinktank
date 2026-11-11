@@ -1,5 +1,7 @@
 # thinktank
 
+PHANTOM PROJECT
+
 design goal (as of right now):
 
 a program that I can just click on or smth, will take all the ideas I have, maybe say or type, and then store them for later. I could have some sort of system where I put if I am busy free or it could be tracking what im doing and drop the idea on me to do smth.
