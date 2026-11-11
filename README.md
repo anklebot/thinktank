@@ -8,6 +8,11 @@ a program that I can just click on or smth, will take all the ideas I have, mayb
 
 Version History:
 
+v.1.5.0
+
+I fixed all of the bugs and made it so the categories and items save, dropdown displays category names. 
+
+
 v.1.4.0
 
 I sort of made a category system for each item. I still need to figure out how to make the slide down display the names cause rn their blank and make the category display on each item. I also need to make the categories save through resets like items. Also seems like item saving stopped working so have to fix whatever I changed. 

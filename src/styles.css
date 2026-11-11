@@ -110,3 +110,14 @@ button {
     background-color: #0f0f0f69;
   }
 }
+
+.category-sign {
+  background-color: #0f0f0f;
+  color: #ffe21c;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.85em;
+  font-weight: bold;
+  margin-right: 10px;
+  display: inline-block;
+}
